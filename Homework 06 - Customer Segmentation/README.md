@@ -1,3 +1,3 @@
-<a href="https://colab.research.google.com/github/Udomsak-Putthasri/BADS7105-CRM-Analytics/blob/main/Homework%2001%20-%20Analysis%20of%20Customer%20Behaviours/HW01_Costomer_Behaviors.ipynb">
+<a href="https://colab.research.google.com/github/https://github.com/Udomsak-Putthasri/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/Customer%20Segmentation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
